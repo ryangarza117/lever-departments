@@ -36,7 +36,6 @@
   margin-bottom: 1.5em;
 }
 #lever-jobs-container h1.lever-department {
-  font-weight: bold;
   font-size: 1.25em;
   margin-bottom: 3em;
 }
@@ -46,6 +45,7 @@
   margin-bottom: 0.5em;
 }
 #lever-jobs-container .lever-department-title {
+  font-weight: bold;
   font-size: 1.25em;
   margin-bottom: 1em;
 }
