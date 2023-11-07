@@ -33,6 +33,7 @@
   background: none;
 }
 #lever-jobs-container .lever-team {
+  display: none;
   margin-bottom: 1.5em;
 }
 #lever-jobs-container .lever-department {
