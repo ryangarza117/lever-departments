@@ -157,7 +157,7 @@ window.loadLeverJobs = function (options) {
 
       head.appendChild(link);
     }
-    addCss('https://andreasmb.github.io/lever-jobs-embed/embed-css/style.css');
+    addCss('https://ryangarza117.github.io/lever-departments/embed-css/style.css');
   }
 
   var request = new XMLHttpRequest();
