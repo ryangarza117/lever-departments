@@ -41,8 +41,8 @@
 }
 #lever-jobs-container .lever-team-title {
   display: none;
-  font-size: 1.25em;
-  margin-bottom: 0.5em;
+  font-size: 0em;
+  margin-bottom: 0em;
 }
 #lever-jobs-container .lever-department-title {
   font-weight: bold;
