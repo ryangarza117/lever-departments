@@ -44,9 +44,10 @@
   margin-bottom: 0em;
 }
 #lever-jobs-container .lever-department-title {
+  color: #2c2e2f;
   font-weight: bold;
   font-size: 1.5em;
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
 }
 #lever-jobs-container .lever-job-title {
   display: inline-block;
